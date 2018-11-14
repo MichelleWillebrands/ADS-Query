@@ -1,6 +1,6 @@
 # ADS-Query
 
-The idea with this project was to determine the number of publishing astronomers on the African continent, and to see how the number of publications with African affiliations has increased over he recent past.
+The idea with this project was to determine the number of publishing astronomers on the African continent per country, and to see how the number of publications with African affiliations has increased over he recent past.
 
 The data we used to make these figures were gathered by querying [NASA's Astrophysics Data System](http://adsabs.harvard.edu/) for peer-reviewed astronomy articles in which any of the authors had affiliations that linked to one of the 54 countries in Africa. The search was further restricted by including only publications between 2013 and 2018.
 
